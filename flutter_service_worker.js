@@ -14,18 +14,18 @@ const RESOURCES = {
 "assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "dffd9504fcb1894620fa41c700172994",
 "assets/AssetManifest.json": "28997440db46076e59fc383353da9ca0",
 "assets/FontManifest.json": "f6544742ea67651b1cc1cb76576eb793",
-"assets/NOTICES": "d21f3cd36440ec784b570d9676d4cac1",
+"assets/NOTICES": "d6767f4894e3652e9a61688f8dca8af2",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "manifest.json": "caaf20727a302e385fc8c04b841396bf",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"js/bundle.js": "0fc0189a3d5ef45b89f535a58f5792c5",
+"js/bundle.js": "06dc1414f992e5e0378d1d5f690a0d76",
 "js/bundle.js.LICENSE.txt": "dfc0dede4b2d1865adf811f5826f96c6",
 "version.json": "97cd9121c6d9a9552a7eddb8ac221942",
-"index.html": "ff533d68e650928b94741ad5d8ca9f0c",
-"/": "ff533d68e650928b94741ad5d8ca9f0c",
-"main.dart.js": "abacb177b46c061894b612350107c5c3"
+"index.html": "b90ae4f5bc0cbf3485d8765ac8d0828f",
+"/": "b90ae4f5bc0cbf3485d8765ac8d0828f",
+"main.dart.js": "3497c7a09211ba34668549e1c8c5e567"
 };
 
 // The application shell files that are downloaded before a service worker can
