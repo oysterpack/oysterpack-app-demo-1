@@ -23,9 +23,9 @@ const RESOURCES = {
 "js/bundle.js": "06dc1414f992e5e0378d1d5f690a0d76",
 "js/bundle.js.LICENSE.txt": "dfc0dede4b2d1865adf811f5826f96c6",
 "version.json": "97cd9121c6d9a9552a7eddb8ac221942",
-"index.html": "b90ae4f5bc0cbf3485d8765ac8d0828f",
-"/": "b90ae4f5bc0cbf3485d8765ac8d0828f",
-"main.dart.js": "3497c7a09211ba34668549e1c8c5e567"
+"index.html": "203715c41478aa0a147957adf2ea5a1e",
+"/": "203715c41478aa0a147957adf2ea5a1e",
+"main.dart.js": "d945ae2ecc8f29a2a320ca9d57f17f6a"
 };
 
 // The application shell files that are downloaded before a service worker can
